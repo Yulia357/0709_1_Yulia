@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="0709_1_Yulia_art:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/0709_1_Yulia_art_jar</output-path>
+    <root id="archive" name="0709_1_Yulia_art.jar">
+      <element id="module-output" name="0709_1_Yulia_art" />
+    </root>
+  </artifact>
+</component>
