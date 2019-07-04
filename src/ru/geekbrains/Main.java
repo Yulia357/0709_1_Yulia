@@ -21,6 +21,10 @@ public class Main {
         System.out.println("Введите Ваше Имя");
         Scanner scannerN = new Scanner(System.in);
         String n = scanner.next();
-        System.out.print("Приветствую тебя в мире программирования, "+ n);
+        System.out.println("Приветствую тебя в мире программирования, "+ n);
+        String str = "Мне нравится работать на Java";
+        String reverse = new StringBuffer(str).reverse().toString();
+        System.out.println("Строка в обычном порядке: " + str);
+        System.out.println("Строка в обратном порядке: " + reverse);
     }
 }
